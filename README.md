@@ -46,3 +46,14 @@ To get the project up and running, follow these steps:
    ```
 
 Your project should now be running on [http://localhost:3000](http://localhost:3000).
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/1a60d12a-e681-45b4-ad3f-93529b3c2f1e)
+
+
+![image](https://github.com/user-attachments/assets/d924402e-cbe7-4d9f-b2a3-901fb96ee58f)
+
+<img width="1486" alt="image" src="https://github.com/user-attachments/assets/493e4d36-432f-4545-a3bb-8f187b16c86f" />
+
+
