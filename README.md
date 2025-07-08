@@ -27,10 +27,10 @@ To get the project up and running, follow these steps:
    cp .env.example .env
    ```
 
-3. Add your OpenAI API key and PostgreSQL connection string to the `.env` file:
+3. Add your GOOGLE_GENERATIVE_AI API key and PostgreSQL connection string to the `.env` file:
 
    ```
-   OPENAI_API_KEY=your_api_key_here
+   GOOGLE_GENERATIVE_AI_API_KEY=your_api_key_here
    DATABASE_URL=your_postgres_connection_string_here
    ```
 
